@@ -1,4 +1,4 @@
-# AtomProject package
+# Simple Project for Atom Editor
 
 A package that saves your project to a file which contains relative paths to all opened directories inside the project, which makes it easier to migrate your project file along with your directories.
 
