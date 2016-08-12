@@ -1,0 +1,31 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-project",
+        "command": "atom-project:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Project",
+      "submenu": [
+        {
+          "label": "Open Project",
+          "command": "atom-project:open"
+        },
+        {"type": "separator"},
+        {
+          "label": "Save Project As...",
+          "command": "atom-project:save"
+        },
+        {"type": "separator"},
+        {
+          "label": "Add Project Folder...",
+          "command": "application:add-project-folder"
+        }
+      ]
+    }
+  ]
+}

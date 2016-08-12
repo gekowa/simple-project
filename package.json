@@ -1,0 +1,29 @@
+{
+  "name": "atom-project",
+  "main": "./lib/main",
+  "version": "0.0.1",
+  "description": "A package that saves your project to a project file which contains relative path to the project directory.",
+  "keywords": ["project", "relative"],
+  "activationCommands": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom/atom-project.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "bugs": {
+    "url": "https://github.com/atom/atom-project/issues"
+  },
+  "homepage": "https://github.com/atom/atom-project#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guo Xinghua <gekowa@gmail.com>"
+}
