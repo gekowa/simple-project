@@ -1,5 +1,5 @@
 {
-  "name": "atom-project",
+  "name": "simple-project",
   "main": "./lib/main",
   "version": "0.0.1",
   "description": "A package that saves your project to a project file which contains relative path to the project directory.",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atom/atom-project.git"
+    "url": "git+https://github.com/gekowa/simple-project.git"
   },
   "license": "MIT",
   "engines": {
@@ -19,9 +19,9 @@
     "lodash": "^4.13.1"
   },
   "bugs": {
-    "url": "https://github.com/atom/atom-project/issues"
+    "url": "https://github.com/gekowa/simple-project/issues"
   },
-  "homepage": "https://github.com/atom/atom-project#readme",
+  "homepage": "https://github.com/gekowa/simple-project#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -9,7 +9,7 @@ describe('AtomProject', () => {
 		"C:\\Workspace\\folder2\\folder3",
 		"D:\\folder4"
 	],
-		projectFilePath = "C:\\Workspace\\ProjectA\\myproject.atom-project",
+		projectFilePath = "C:\\Workspace\\ProjectA\\myproject.simple-project",
 		relativePaths = [
 			"folder1",
 			"..\\folder2\\folder3",
@@ -19,7 +19,7 @@ describe('AtomProject', () => {
 
 	beforeEach(() => {
 		// workspaceElement = atom.views.getView(atom.workspace);
-		// activationPromise = atom.packages.activatePackage('atom-project');
+		// activationPromise = atom.packages.activatePackage('simple-project');
 
 	});
 
