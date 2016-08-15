@@ -1,6 +1,6 @@
 # Simple Project for Atom Editor
 
-A package that saves your project to a file which contains relative paths to all opened directories inside the project, which makes it easier to migrate your project file along with your directories.
+A package that saves your project to a file which contains relative paths to all opened directories inside the project, which makes it easier to migrate your project file along with your directories. This is extremely convenient if you work on TFS and switch among several branches.
 
 ## Example
 E.g., you have a project that contains 3 directories:
