@@ -9,9 +9,9 @@ E.g., you have a project that contains 3 directories:
 - C:\Workspace\ProjectA\Folder3\scripts
 - D:\Workspace\ProjectB
 
-And your project file saves to **C:\Workspace\ProjectA\my.simple-project**
+And your project file saves to **C:\Workspace\ProjectA\my.atom-project**
 
-The content of **my.simple-project** file would be:
+The content of **my.atom-project** file would be:
 ```
 ["Folder1\\scripts","Folder3\\scripts","D:\\Workspace\\ProjectB"]
 ```

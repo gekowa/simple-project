@@ -9,7 +9,7 @@ describe('AtomProject', () => {
 		"C:\\Workspace\\folder2\\folder3",
 		"D:\\folder4"
 	],
-		projectFilePath = "C:\\Workspace\\ProjectA\\myproject.simple-project",
+		projectFilePath = "C:\\Workspace\\ProjectA\\myproject.atom-project",
 		relativePaths = [
 			"folder1",
 			"..\\folder2\\folder3",
