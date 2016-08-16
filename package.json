@@ -1,7 +1,7 @@
 {
   "name": "simple-project",
   "main": "./lib/main",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A package that saves your project to a project file which contains relative path to the project directory.",
   "keywords": [
     "project",
