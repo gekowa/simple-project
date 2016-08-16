@@ -7,10 +7,14 @@
           "label": "Open Project",
           "command": "simple-project:open"
         },
+        {
+          "label": "Recent Projects"
+
+        },
         {"type": "separator"},
         {
           "label": "Save Project As...",
-          "command": "simple-project:save"
+          "command": "simple-project:save-as"
         },
         {"type": "separator"},
         {
